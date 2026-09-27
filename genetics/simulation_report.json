@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "sample_size": 4096,
+  "F2_color_counts": {
+    "yellow": 3019,
+    "green": 1077
+  },
+  "tests": [
+    "same seed deterministic",
+    "parent order independent",
+    "one inherited allele per parent",
+    "hidden allele retained",
+    "F2 recessive reappearance",
+    "sphere suppresses handheld without deleting it"
+  ],
+  "scope": "offline reference genetics only; visual similarity and Tripo integration untested"
+}

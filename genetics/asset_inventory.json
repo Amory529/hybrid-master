@@ -1,0 +1,1630 @@
+[
+  {
+    "file": "Character_Fengou_P1_Face3000_Jelly.glb",
+    "sha256": "1171c9f27895a9b4d9111de419f753fe48b152b0327f78bf8c3825f1aa68b44f",
+    "bytes": 2329548,
+    "triangles": 3026,
+    "vertices_instance_sum": 4263,
+    "bounds_xyz": [
+      0.884765625,
+      0.943359375,
+      0.998046875
+    ],
+    "mesh_count": 1,
+    "primitive_instances": 1,
+    "image_count": 3,
+    "image_dimensions": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 1,
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "materials": [
+      {
+        "name": "tripo_material_9f949581-1d23-4266-8d11-629b7ffb3600",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.95
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "tripo_mesh_9f949581-1d23-4266-8d11-629b7ffb3600"
+    ]
+  },
+  {
+    "file": "Character_Fenxiang_P1_Face3000_Jelly.glb",
+    "sha256": "95ebb16b09ee2a42ae91abad712d7894247087b91db326615cae8ecf7bd40425",
+    "bytes": 2017832,
+    "triangles": 2931,
+    "vertices_instance_sum": 2109,
+    "bounds_xyz": [
+      0.853515625,
+      0.751953125,
+      0.998046875
+    ],
+    "mesh_count": 1,
+    "primitive_instances": 1,
+    "image_count": 3,
+    "image_dimensions": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 1,
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "materials": [
+      {
+        "name": "tripo_material_936c120b-5930-498a-b3c8-d8d51c6bd258",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.95
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "tripo_mesh_936c120b-5930-498a-b3c8-d8d51c6bd258"
+    ]
+  },
+  {
+    "file": "Character_Haoqimao_P1_Face3000_Jelly.glb",
+    "sha256": "5e030425b22471fe2bda618910e1bc731c846913aa4a1639114d0e9474a9b4e5",
+    "bytes": 2540528,
+    "triangles": 2825,
+    "vertices_instance_sum": 2172,
+    "bounds_xyz": [
+      0.982421875,
+      0.998046875,
+      0.990234375
+    ],
+    "mesh_count": 1,
+    "primitive_instances": 1,
+    "image_count": 3,
+    "image_dimensions": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 1,
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "materials": [
+      {
+        "name": "tripo_material_9c1496b2-490f-4fe9-8802-761a0a7b996a",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.95
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "tripo_mesh_9c1496b2-490f-4fe9-8802-761a0a7b996a"
+    ]
+  },
+  {
+    "file": "Character_Taidixiong_P1_Face3000_Jelly.glb",
+    "sha256": "b7eb43c255445a85893772b08784e0d8a552d22c237bbb9f0b8f1107abe4a8f1",
+    "bytes": 2632736,
+    "triangles": 2964,
+    "vertices_instance_sum": 1999,
+    "bounds_xyz": [
+      0.998046875,
+      0.955078125,
+      0.978515625
+    ],
+    "mesh_count": 1,
+    "primitive_instances": 1,
+    "image_count": 3,
+    "image_dimensions": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 1,
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "materials": [
+      {
+        "name": "tripo_material_cb2b0fb8-7664-4fa2-95c0-96e71c9830c7",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.95
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "tripo_mesh_cb2b0fb8-7664-4fa2-95c0-96e71c9830c7"
+    ]
+  },
+  {
+    "file": "Character_luoxiaohei_Jelly.glb",
+    "sha256": "b9b3dc53bae1b36a3c14e50ff2d3d99c3af301d75de46dd79c2bf1d3cf50eb33",
+    "bytes": 1465936,
+    "triangles": 2982,
+    "vertices_instance_sum": 1960,
+    "bounds_xyz": [
+      0.998046875,
+      0.845703125,
+      0.978515625
+    ],
+    "mesh_count": 1,
+    "primitive_instances": 1,
+    "image_count": 3,
+    "image_dimensions": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 1,
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "materials": [
+      {
+        "name": "tripo_material_472371a4-20dc-49b4-8d20-5db9379336d1",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.95
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "tripo_mesh_472371a4-20dc-49b4-8d20-5db9379336d1"
+    ]
+  },
+  {
+    "file": "Character_reborn.glb",
+    "sha256": "e5e51ca4030234452eecbf8e4d1fa61ccd95f1fd0b1c127dc6206527dcd9224b",
+    "bytes": 1956036,
+    "triangles": 2836,
+    "vertices_instance_sum": 3376,
+    "bounds_xyz": [
+      0.982421875,
+      0.998046875,
+      0.998046875
+    ],
+    "mesh_count": 1,
+    "primitive_instances": 1,
+    "image_count": 3,
+    "image_dimensions": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 1,
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "materials": [
+      {
+        "name": "tripo_material_6101c367-c560-4c36-af46-39b7bfed4aed",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.95
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "tripo_mesh_6101c367-c560-4c36-af46-39b7bfed4aed"
+    ]
+  },
+  {
+    "file": "ahegao.glb",
+    "sha256": "91650123baec4d61a951aea8dd126324503270ae9b8ac3a84203f7bc658b2eb6",
+    "bytes": 155564,
+    "triangles": 6984,
+    "vertices_instance_sum": 3560,
+    "bounds_xyz": [
+      1.9600000381469727,
+      1.959999918937683,
+      2.0390000343322754
+    ],
+    "mesh_count": 34,
+    "primitive_instances": 34,
+    "image_count": 0,
+    "image_dimensions": [],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 10,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "yellow",
+        "baseColorFactor": [
+          1,
+          0.65,
+          0.012,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "white",
+        "baseColorFactor": [
+          1,
+          0.92,
+          0.96,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "eye",
+        "baseColorFactor": [
+          0.1,
+          0.095,
+          0.095,
+          1
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "rim",
+        "baseColorFactor": [
+          0.07,
+          0.025,
+          0.018,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "pink",
+        "baseColorFactor": [
+          0.86,
+          0.025,
+          0.53,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "blush",
+        "baseColorFactor": [
+          1,
+          0.25,
+          0.24,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "blushouter",
+        "baseColorFactor": [
+          1,
+          0.43,
+          0.13,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "line",
+        "baseColorFactor": [
+          0.65,
+          0.095,
+          0.065,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "tear",
+        "baseColorFactor": [
+          0.47,
+          0.81,
+          0.89,
+          1
+        ],
+        "roughnessFactor": 0.18,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "glint",
+        "baseColorFactor": [
+          1,
+          1,
+          0.91,
+          1
+        ],
+        "roughnessFactor": 0.52,
+        "has_base_texture": false,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Round golden face",
+      "Large eye dark border",
+      "Pale eye white",
+      "Big glossy pupil",
+      "Eye reflection",
+      "Watery lower lid",
+      "Soft blush outer",
+      "Rosy cheek",
+      "Blush hatch",
+      "Blush hatch",
+      "Blush hatch",
+      "Raised shy eyebrow",
+      "Large eye dark border",
+      "Pale eye white",
+      "Big glossy pupil",
+      "Eye reflection",
+      "Watery lower lid",
+      "Soft blush outer",
+      "Rosy cheek",
+      "Blush hatch",
+      "Blush hatch",
+      "Blush hatch",
+      "Raised shy eyebrow",
+      "Ivory heart outline",
+      "Pink heart pupil",
+      "Ivory heart outline",
+      "Pink heart pupil",
+      "Central rosy nose bridge",
+      "Wavy bashful smile",
+      "Smile dimple",
+      "Tear running down cheek",
+      "Tear droplet",
+      "Tear running down cheek",
+      "Tear droplet"
+    ]
+  },
+  {
+    "file": "banana_cat.glb",
+    "sha256": "ffd20cdd7a4c1c341e710396070be3441541073c30640f0cc6f3d990a4e7854c",
+    "bytes": 73368,
+    "triangles": 2272,
+    "vertices_instance_sum": 1168,
+    "bounds_xyz": [
+      1.336327075958252,
+      2.5534067153930664,
+      0.8350000381469727
+    ],
+    "mesh_count": 16,
+    "primitive_instances": 16,
+    "image_count": 1,
+    "image_dimensions": [
+      [
+        269,
+        358
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 6,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "peel",
+        "baseColorFactor": [
+          0.79,
+          0.7,
+          0.065,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "ridge",
+        "baseColorFactor": [
+          0.29,
+          0.25,
+          0.026,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "stem",
+        "baseColorFactor": [
+          0.18,
+          0.15,
+          0.035,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "fur",
+        "baseColorFactor": [
+          0.51,
+          0.47,
+          0.33,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "paw",
+        "baseColorFactor": [
+          0.64,
+          0.6,
+          0.46,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "face",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": true,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Curved banana peel",
+      "Top banana stalk",
+      "Banana longitudinal rib",
+      "Banana longitudinal rib",
+      "Banana longitudinal rib",
+      "Banana longitudinal rib",
+      "Lower front peel ridge",
+      "Little furry arm",
+      "Small mitten paw",
+      "Short kitten leg",
+      "Rounded kitten foot",
+      "Little furry arm",
+      "Small mitten paw",
+      "Short kitten leg",
+      "Rounded kitten foot",
+      "Forward facing photo-textured cat face"
+    ]
+  },
+  {
+    "file": "beishangwa.glb",
+    "sha256": "812d9ee1de1c8b0e3fa1eff15ad54d6b92e2de71b48bfa4418f38075273e0c21",
+    "bytes": 94772,
+    "triangles": 4160,
+    "vertices_instance_sum": 2126,
+    "bounds_xyz": [
+      1.7200000286102295,
+      1.9499999284744263,
+      1.602536916732788
+    ],
+    "mesh_count": 23,
+    "primitive_instances": 23,
+    "image_count": 0,
+    "image_dimensions": [],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 7,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "green",
+        "baseColorFactor": [
+          0.26,
+          0.46,
+          0.13,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "lid",
+        "baseColorFactor": [
+          0.32,
+          0.51,
+          0.18,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "white",
+        "baseColorFactor": [
+          0.99,
+          0.99,
+          0.92,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "black",
+        "baseColorFactor": [
+          0.003,
+          0.005,
+          0.002,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "lip",
+        "baseColorFactor": [
+          0.55,
+          0.25,
+          0.11,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "line",
+        "baseColorFactor": [
+          0.065,
+          0.12,
+          0.025,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "blue",
+        "baseColorFactor": [
+          0.025,
+          0.065,
+          0.83,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Blue shirt bust",
+      "Wide frog head",
+      "Raised eye mound",
+      "Large white frog eye",
+      "Black round pupil",
+      "Large eye glint",
+      "Small eye glint",
+      "Drooping upper eyelid",
+      "Lower eyelid",
+      "Eye wrinkle",
+      "Raised eye mound",
+      "Large white frog eye",
+      "Black round pupil",
+      "Large eye glint",
+      "Small eye glint",
+      "Drooping upper eyelid",
+      "Lower eyelid",
+      "Eye wrinkle",
+      "Thick upper lip",
+      "Full lower lip",
+      "Thin mouth crease",
+      "Under eye crease",
+      "Under eye crease"
+    ]
+  },
+  {
+    "file": "daodunaniya.glb",
+    "sha256": "9f9ad0dbcc94db10ae3603cf3fa5073b8476452280d7b0583d5c635e0d32b4f0",
+    "bytes": 159832,
+    "triangles": 5894,
+    "vertices_instance_sum": 3073,
+    "bounds_xyz": [
+      3.5490000247955322,
+      2.4700000286102295,
+      1.854651927947998
+    ],
+    "mesh_count": 64,
+    "primitive_instances": 64,
+    "image_count": 0,
+    "image_dimensions": [],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 12,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "pink",
+        "baseColorFactor": [
+          0.98,
+          0.28,
+          0.37,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "cream",
+        "baseColorFactor": [
+          1,
+          0.79,
+          0.57,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "hair",
+        "baseColorFactor": [
+          1,
+          0.25,
+          0.35,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "black",
+        "baseColorFactor": [
+          0.025,
+          0.018,
+          0.016,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "eye",
+        "baseColorFactor": [
+          0.055,
+          0.026,
+          0.018,
+          1
+        ],
+        "roughnessFactor": 0.23,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "nose",
+        "baseColorFactor": [
+          0.085,
+          0.038,
+          0.025,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "blush",
+        "baseColorFactor": [
+          1,
+          0.36,
+          0.4,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "shine",
+        "baseColorFactor": [
+          1,
+          1,
+          0.94,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "gold",
+        "baseColorFactor": [
+          0.78,
+          0.46,
+          0.12,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "steel",
+        "baseColorFactor": [
+          0.52,
+          0.55,
+          0.59,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "wood",
+        "baseColorFactor": [
+          0.13,
+          0.085,
+          0.052,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "mouth",
+        "baseColorFactor": [
+          0.12,
+          0.055,
+          0.035,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Round pink body",
+      "Cream dog face",
+      "Foot",
+      "Outstretched arm",
+      "Gripping paw",
+      "Rosy cheek",
+      "Soft dark eyelid",
+      "Bright dog eye",
+      "Eye glint",
+      "Deep black pupil",
+      "Small eye sparkle",
+      "Foot",
+      "Outstretched arm",
+      "Gripping paw",
+      "Rosy cheek",
+      "Soft dark eyelid",
+      "Bright dog eye",
+      "Eye glint",
+      "Deep black pupil",
+      "Small eye sparkle",
+      "Rounded toe",
+      "Rounded toe",
+      "Rounded toe",
+      "Gripping finger",
+      "Gripping finger",
+      "Rounded toe",
+      "Rounded toe",
+      "Rounded toe",
+      "Gripping finger",
+      "Gripping finger",
+      "Happy curved smile",
+      "Left soft muzzle",
+      "Right soft muzzle",
+      "Dog nose",
+      "Nostril",
+      "Nostril",
+      "Nose to mouth",
+      "Pink hair crown",
+      "Center fringe",
+      "Swept fringe",
+      "Long face framing hair",
+      "Outer bob hair",
+      "Black ear ornament",
+      "Gold ornament band",
+      "Swept fringe",
+      "Long face framing hair",
+      "Outer bob hair",
+      "Black ear ornament",
+      "Gold ornament band",
+      "Curled top tuft",
+      "Knife handle",
+      "Knife blade",
+      "Shield solid dark field",
+      "Continuous gold shield rim",
+      "Shield gold crossbar",
+      "Shield central boss",
+      "Sun emblem point",
+      "Sun emblem point",
+      "Sun emblem point",
+      "Sun emblem point",
+      "Shield rivet",
+      "Shield rivet",
+      "Shield rivet",
+      "Shield rivet"
+    ]
+  },
+  {
+    "file": "fengge.glb",
+    "sha256": "ba1118fb7d7182e73934dcf3f448d60d54fd2985823d388788c54431889582af",
+    "bytes": 91460,
+    "triangles": 2952,
+    "vertices_instance_sum": 1566,
+    "bounds_xyz": [
+      2.1880645751953125,
+      2.3680169582366943,
+      2.69590163230896
+    ],
+    "mesh_count": 45,
+    "primitive_instances": 45,
+    "image_count": 0,
+    "image_dimensions": [],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 6,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "yellow",
+        "baseColorFactor": [
+          1,
+          0.67,
+          0.025,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "hair",
+        "baseColorFactor": [
+          0.038,
+          0.027,
+          0.021,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "eye",
+        "baseColorFactor": [
+          0.52,
+          0.55,
+          0.27,
+          1
+        ],
+        "roughnessFactor": 0.23,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "pupil",
+        "baseColorFactor": [
+          0.006,
+          0.007,
+          0.004,
+          1
+        ],
+        "roughnessFactor": 0.23,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "lip",
+        "baseColorFactor": [
+          0.68,
+          0.36,
+          0.075,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "shine",
+        "baseColorFactor": [
+          1,
+          0.98,
+          0.85,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Round reclining torso",
+      "Broad pear shaped face",
+      "Front paw -1",
+      "Rear paw -1",
+      "Front toe",
+      "Front toe",
+      "Front toe",
+      "Protruding olive eyeball",
+      "Black round pupil",
+      "Eye catchlight",
+      "Expressive brow",
+      "Front paw 1",
+      "Rear paw 1",
+      "Front toe",
+      "Front toe",
+      "Front toe",
+      "Protruding olive eyeball",
+      "Black round pupil",
+      "Eye catchlight",
+      "Expressive brow",
+      "Broad nose",
+      "Nostril",
+      "Nostril",
+      "Mouth and lower lip",
+      "Drooping moustache",
+      "Drooping moustache",
+      "Goatee chin",
+      "Goatee center",
+      "Goatee edge",
+      "Goatee edge",
+      "Hair crown",
+      "Wavy hair lock -1 0",
+      "Wavy hair lock -1 1",
+      "Wavy hair lock -1 2",
+      "Wavy hair lock -1 3",
+      "Wavy hair lock -1 4",
+      "Wavy hair lock -1 5",
+      "Wavy hair lock 1 0",
+      "Wavy hair lock 1 1",
+      "Wavy hair lock 1 2",
+      "Wavy hair lock 1 3",
+      "Wavy hair lock 1 4",
+      "Wavy hair lock 1 5",
+      "Parted fringe",
+      "Parted fringe"
+    ]
+  },
+  {
+    "file": "gaoyarenshi.glb",
+    "sha256": "f0899b4481449f39d8d936c88f60913ab2a6733b20c20661ea3f9a7c085a0ed9",
+    "bytes": 220000,
+    "triangles": 4648,
+    "vertices_instance_sum": 2642,
+    "bounds_xyz": [
+      1.919377326965332,
+      2.445000171661377,
+      1.440000057220459
+    ],
+    "mesh_count": 159,
+    "primitive_instances": 159,
+    "image_count": 0,
+    "image_dimensions": [],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 9,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "black",
+        "baseColorFactor": [
+          0.014,
+          0.018,
+          0.023,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "white",
+        "baseColorFactor": [
+          0.87,
+          0.89,
+          0.88,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "beak",
+        "baseColorFactor": [
+          1,
+          0.57,
+          0.012,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "beakdark",
+        "baseColorFactor": [
+          0.8,
+          0.29,
+          0.007,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "frame",
+        "baseColorFactor": [
+          0.007,
+          0.009,
+          0.012,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "lens",
+        "baseColorFactor": [
+          0.018,
+          0.03,
+          0.04,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "glint",
+        "baseColorFactor": [
+          0.7,
+          0.8,
+          0.84,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "paper",
+        "baseColorFactor": [
+          0.77,
+          0.79,
+          0.75,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "ink",
+        "baseColorFactor": [
+          0.22,
+          0.25,
+          0.24,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Pear shaped black body",
+      "White belly",
+      "Black rounded head",
+      "White lower face",
+      "Eye white behind sunglasses",
+      "Small black foot",
+      "Eye white behind sunglasses",
+      "Small black foot",
+      "Bent flipper",
+      "Bent flipper",
+      "Golden upper beak",
+      "Lower bill",
+      "Dark sunglass lens",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Lens top reflection",
+      "Lens side reflection",
+      "Sunglass arm",
+      "Dark sunglass lens",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Thick black frame",
+      "Lens top reflection",
+      "Lens side reflection",
+      "Sunglass arm",
+      "Glasses bridge",
+      "Folded newspaper page",
+      "Headline rule",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Folded newspaper page",
+      "Headline rule",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Newsprint column",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Masthead letter",
+      "Flipper holding newspaper",
+      "Flipper holding newspaper"
+    ]
+  },
+  {
+    "file": "renyuji.glb",
+    "sha256": "8389183500da6d481bb4f286f5ab0b1044b73fcb143b55f59c1704c210c9f35b",
+    "bytes": 332932,
+    "triangles": 4780,
+    "vertices_instance_sum": 2468,
+    "bounds_xyz": [
+      1.6607412099838257,
+      2.431356430053711,
+      1.1389999389648438
+    ],
+    "mesh_count": 39,
+    "primitive_instances": 39,
+    "image_count": 1,
+    "image_dimensions": [
+      [
+        538,
+        271
+      ]
+    ],
+    "skins": 0,
+    "animations": 0,
+    "material_count": 12,
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "materials": [
+      {
+        "name": "yellow",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 0.96,
+        "has_base_texture": true,
+        "has_transmission": false
+      },
+      {
+        "name": "wing",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 0.96,
+        "has_base_texture": true,
+        "has_transmission": false
+      },
+      {
+        "name": "white",
+        "baseColorFactor": [
+          0.94,
+          0.91,
+          0.71,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "iris",
+        "baseColorFactor": [
+          0.34,
+          0.27,
+          0.14,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "black",
+        "baseColorFactor": [
+          0.025,
+          0.017,
+          0.018,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "purple",
+        "baseColorFactor": [
+          0.25,
+          0.07,
+          0.28,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "blush",
+        "baseColorFactor": [
+          1,
+          0.3,
+          0.09,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "blue",
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 0.96,
+        "has_base_texture": true,
+        "has_transmission": false
+      },
+      {
+        "name": "lip",
+        "baseColorFactor": [
+          0.65,
+          0.07,
+          0.025,
+          1
+        ],
+        "roughnessFactor": 0.3,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "mouth",
+        "baseColorFactor": [
+          0.17,
+          0.013,
+          0.006,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "tongue",
+        "baseColorFactor": [
+          0.83,
+          0.2,
+          0.095,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      },
+      {
+        "name": "orange",
+        "baseColorFactor": [
+          0.88,
+          0.2,
+          0.027,
+          1
+        ],
+        "roughnessFactor": 0.83,
+        "has_base_texture": false,
+        "has_transmission": false
+      }
+    ],
+    "mesh_names": [
+      "Plump egg shaped chicken",
+      "Narrow top of head",
+      "Small hanging wing",
+      "Orange cheek",
+      "Purple eye rim",
+      "Bulging eyeball",
+      "Brown iris",
+      "Black pupil",
+      "Eye highlight",
+      "Long purple eyelash",
+      "Long purple eyelash",
+      "Long purple eyelash",
+      "Orange chicken leg",
+      "Splayed toe",
+      "Splayed toe",
+      "Splayed toe",
+      "Small hanging wing",
+      "Orange cheek",
+      "Purple eye rim",
+      "Bulging eyeball",
+      "Brown iris",
+      "Black pupil",
+      "Eye highlight",
+      "Long purple eyelash",
+      "Long purple eyelash",
+      "Long purple eyelash",
+      "Orange chicken leg",
+      "Splayed toe",
+      "Splayed toe",
+      "Splayed toe",
+      "Top orange crest",
+      "Top orange crest",
+      "Top orange crest",
+      "Turquoise mouth surround",
+      "Dark open mouth",
+      "Exaggerated cupid bow lip",
+      "Full red lower lip",
+      "Tongue inside beak",
+      "Small cheek beauty spot"
+    ]
+  }
+]

@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "01d337211caa793c",
+    "version": "gene-v2-draft-1",
+    "seed": 17,
+    "parents": [
+      "heart-emoji",
+      "sad-frog"
+    ],
+    "genome": {
+      "body_plan": [
+        "sphere",
+        "round_bust"
+      ],
+      "body_scale": [
+        "A",
+        "A"
+      ],
+      "face_pack": [
+        "heart_blush_tears",
+        "sad_frog"
+      ],
+      "body_color": [
+        "yellow",
+        "green"
+      ],
+      "surface": [
+        "smooth",
+        "smooth"
+      ],
+      "ear_pack": [
+        "none",
+        "none"
+      ],
+      "horn_pack": [
+        "none",
+        "none"
+      ],
+      "hair_pack": [
+        "none",
+        "none"
+      ],
+      "hair_color": [
+        "none",
+        "none"
+      ],
+      "beard_pack": [
+        "none",
+        "none"
+      ],
+      "headwear": [
+        "none",
+        "none"
+      ],
+      "eyewear": [
+        "none",
+        "none"
+      ],
+      "outfit": [
+        "none",
+        "blue_shirt"
+      ],
+      "handheld": [
+        "none",
+        "none"
+      ],
+      "tail": [
+        "none",
+        "none"
+      ],
+      "wing": [
+        "none",
+        "none"
+      ],
+      "back": [
+        "none",
+        "none"
+      ],
+      "glow": [
+        "none",
+        "none"
+      ],
+      "hand_scale": [
+        "normal",
+        "normal"
+      ],
+      "claw": [
+        "none",
+        "none"
+      ],
+      "limb_color": [
+        "inherit_body",
+        "inherit_body"
+      ]
+    },
+    "inherited_allele_sources": {
+      "body_plan": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "body_scale": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "face_pack": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "body_color": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "surface": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "ear_pack": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "horn_pack": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "hair_pack": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "hair_color": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "beard_pack": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "headwear": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "eyewear": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "outfit": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "handheld": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "tail": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "wing": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "back": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "glow": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ],
+      "hand_scale": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "claw": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 0
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 0
+        }
+      ],
+      "limb_color": [
+        {
+          "parent": "heart-emoji",
+          "homolog": 1
+        },
+        {
+          "parent": "sad-frog",
+          "homolog": 1
+        }
+      ]
+    },
+    "expression_decisions": {
+      "body_plan": "equal_rank_seeded_choice",
+      "body_scale": "homozygous",
+      "face_pack": "equal_rank_seeded_choice",
+      "body_color": "pairwise_dominance",
+      "surface": "homozygous",
+      "ear_pack": "homozygous",
+      "horn_pack": "homozygous",
+      "hair_pack": "homozygous",
+      "hair_color": "homozygous",
+      "beard_pack": "homozygous",
+      "headwear": "homozygous",
+      "eyewear": "homozygous",
+      "outfit": "presence_dominant_default",
+      "handheld": "homozygous",
+      "tail": "homozygous",
+      "wing": "homozygous",
+      "back": "homozygous",
+      "glow": "homozygous",
+      "hand_scale": "homozygous",
+      "claw": "homozygous",
+      "limb_color": "homozygous"
+    },
+    "selected_before_constraints": {
+      "body_plan": "round_bust",
+      "body_scale": "A",
+      "face_pack": "sad_frog",
+      "body_color": "yellow",
+      "surface": "smooth",
+      "ear_pack": "none",
+      "horn_pack": "none",
+      "hair_pack": "none",
+      "hair_color": "none",
+      "beard_pack": "none",
+      "headwear": "none",
+      "eyewear": "none",
+      "outfit": "blue_shirt",
+      "handheld": "none",
+      "tail": "none",
+      "wing": "none",
+      "back": "none",
+      "glow": "none",
+      "hand_scale": "normal",
+      "claw": "none",
+      "limb_color": "inherit_body"
+    },
+    "phenotype": {
+      "body_plan": "round_bust",
+      "body_scale": "A",
+      "face_pack": "sad_frog",
+      "body_color": "yellow",
+      "surface": "smooth",
+      "ear_pack": "none",
+      "horn_pack": "none",
+      "hair_pack": "none",
+      "hair_color": "none",
+      "beard_pack": "none",
+      "headwear": "none",
+      "eyewear": "none",
+      "outfit": "blue_shirt",
+      "handheld": "none",
+      "tail": "none",
+      "wing": "none",
+      "back": "none",
+      "glow": "none",
+      "hand_scale": "normal",
+      "claw": "none",
+      "limb_color": "inherit_body"
+    },
+    "suppressed": {},
+    "primary_parent": "sad-frog",
+    "visible_secondary_signature_loci": [],
+    "status": "needs_review_no_visible_second_parent",
+    "brief": {
+      "body_plan": "round_bust",
+      "face_anchors": [
+        "drooping large white eyes",
+        "brown thick horizontal lips",
+        "under-eye creases"
+      ],
+      "phenotype": {
+        "body_plan": "round_bust",
+        "body_scale": "A",
+        "face_pack": "sad_frog",
+        "body_color": "yellow",
+        "surface": "smooth",
+        "ear_pack": "none",
+        "horn_pack": "none",
+        "hair_pack": "none",
+        "hair_color": "none",
+        "beard_pack": "none",
+        "headwear": "none",
+        "eyewear": "none",
+        "outfit": "blue_shirt",
+        "handheld": "none",
+        "tail": "none",
+        "wing": "none",
+        "back": "none",
+        "glow": "none",
+        "hand_scale": "normal",
+        "claw": "none",
+        "limb_color": "inherit_body"
+      },
+      "salience_limit": 2,
+      "triangle_target": 4500,
+      "triangle_hard_cap": 7000,
+      "must_not": [
+        "extra heads",
+        "split half-parent bodies",
+        "floating facial parts"
+      ],
+      "review_required": true
+    }
+  },
+  {
+    "id": "791fe2f7f252a475",
+    "version": "gene-v2-draft-1",
+    "seed": 17,
+    "parents": [
+      "fengge",
+      "knife-dog"
+    ],
+    "genome": {
+      "body_plan": [
+        "prone_quadruped",
+        "round_stub_feet"
+      ],
+      "body_scale": [
+        "A",
+        "A"
+      ],
+      "face_pack": [
+        "bulging_eyes_moustache",
+        "smirking_dog_blush"
+      ],
+      "body_color": [
+        "yellow",
+        "pink_cream"
+      ],
+      "surface": [
+        "smooth",
+        "smooth"
+      ],
+      "ear_pack": [
+        "none",
+        "none"
+      ],
+      "horn_pack": [
+        "none",
+        "none"
+      ],
+      "hair_pack": [
+        "medium_wavy",
+        "pink_bob_tuft"
+      ],
+      "hair_color": [
+        "black",
+        "pink"
+      ],
+      "beard_pack": [
+        "moustache_goatee",
+        "none"
+      ],
+      "headwear": [
+        "none",
+        "black_gold_cones"
+      ],
+      "eyewear": [
+        "none",
+        "none"
+      ],
+      "outfit": [
+        "none",
+        "none"
+      ],
+      "handheld": [
+        "none",
+        "knife_shield"
+      ],
+      "tail": [
+        "none",
+        "none"
+      ],
+      "wing": [
+        "none",
+        "none"
+      ],
+      "back": [
+        "none",
+        "none"
+      ],
+      "glow": [
+        "none",
+        "none"
+      ],
+      "hand_scale": [
+        "normal",
+        "normal"
+      ],
+      "claw": [
+        "none",
+        "none"
+      ],
+      "limb_color": [
+        "inherit_body",
+        "inherit_body"
+      ]
+    },
+    "inherited_allele_sources": {
+      "body_plan": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "body_scale": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "face_pack": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "body_color": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "surface": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "ear_pack": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "horn_pack": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "hair_pack": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "hair_color": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "beard_pack": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "headwear": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "eyewear": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "outfit": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "handheld": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "tail": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "wing": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "back": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "glow": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "hand_scale": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 1
+        }
+      ],
+      "claw": [
+        {
+          "parent": "fengge",
+          "homolog": 0
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ],
+      "limb_color": [
+        {
+          "parent": "fengge",
+          "homolog": 1
+        },
+        {
+          "parent": "knife-dog",
+          "homolog": 0
+        }
+      ]
+    },
+    "expression_decisions": {
+      "body_plan": "equal_rank_seeded_choice",
+      "body_scale": "homozygous",
+      "face_pack": "equal_rank_seeded_choice",
+      "body_color": "equal_rank_seeded_choice",
+      "surface": "homozygous",
+      "ear_pack": "homozygous",
+      "horn_pack": "homozygous",
+      "hair_pack": "equal_rank_seeded_choice",
+      "hair_color": "linked_to_hair_haplotype",
+      "beard_pack": "presence_dominant_default",
+      "headwear": "presence_dominant_default",
+      "eyewear": "homozygous",
+      "outfit": "homozygous",
+      "handheld": "presence_dominant_default",
+      "tail": "homozygous",
+      "wing": "homozygous",
+      "back": "homozygous",
+      "glow": "homozygous",
+      "hand_scale": "homozygous",
+      "claw": "homozygous",
+      "limb_color": "homozygous"
+    },
+    "selected_before_constraints": {
+      "body_plan": "prone_quadruped",
+      "body_scale": "A",
+      "face_pack": "smirking_dog_blush",
+      "body_color": "yellow",
+      "surface": "smooth",
+      "ear_pack": "none",
+      "horn_pack": "none",
+      "hair_pack": "pink_bob_tuft",
+      "hair_color": "pink",
+      "beard_pack": "moustache_goatee",
+      "headwear": "black_gold_cones",
+      "eyewear": "none",
+      "outfit": "none",
+      "handheld": "knife_shield",
+      "tail": "none",
+      "wing": "none",
+      "back": "none",
+      "glow": "none",
+      "hand_scale": "normal",
+      "claw": "none",
+      "limb_color": "inherit_body"
+    },
+    "phenotype": {
+      "body_plan": "prone_quadruped",
+      "body_scale": "A",
+      "face_pack": "smirking_dog_blush",
+      "body_color": "yellow",
+      "surface": "smooth",
+      "ear_pack": "none",
+      "horn_pack": "none",
+      "hair_pack": "pink_bob_tuft",
+      "hair_color": "pink",
+      "beard_pack": "moustache_goatee",
+      "headwear": "black_gold_cones",
+      "eyewear": "none",
+      "outfit": "none",
+      "handheld": "none",
+      "tail": "none",
+      "wing": "none",
+      "back": "none",
+      "glow": "none",
+      "hand_scale": "normal",
+      "claw": "none",
+      "limb_color": "inherit_body"
+    },
+    "suppressed": {
+      "handheld": {
+        "allele": "knife_shield",
+        "reason": "salience_budget"
+      }
+    },
+    "primary_parent": "fengge",
+    "visible_secondary_signature_loci": [
+      "face_pack",
+      "hair_pack",
+      "headwear"
+    ],
+    "status": "ready_for_reference_review",
+    "brief": {
+      "body_plan": "prone_quadruped",
+      "face_anchors": [
+        "dog nose and muzzle",
+        "slight asymmetric smile",
+        "rosy cheeks"
+      ],
+      "phenotype": {
+        "body_plan": "prone_quadruped",
+        "body_scale": "A",
+        "face_pack": "smirking_dog_blush",
+        "body_color": "yellow",
+        "surface": "smooth",
+        "ear_pack": "none",
+        "horn_pack": "none",
+        "hair_pack": "pink_bob_tuft",
+        "hair_color": "pink",
+        "beard_pack": "moustache_goatee",
+        "headwear": "black_gold_cones",
+        "eyewear": "none",
+        "outfit": "none",
+        "handheld": "none",
+        "tail": "none",
+        "wing": "none",
+        "back": "none",
+        "glow": "none",
+        "hand_scale": "normal",
+        "claw": "none",
+        "limb_color": "inherit_body"
+      },
+      "salience_limit": 2,
+      "triangle_target": 4500,
+      "triangle_hard_cap": 7000,
+      "must_not": [
+        "extra heads",
+        "split half-parent bodies",
+        "floating facial parts"
+      ],
+      "review_required": true
+    }
+  },
+  {
+    "id": "45c0118edcf0c825",
+    "version": "gene-v2-draft-1",
+    "seed": 17,
+    "parents": [
+      "curious-cat",
+      "gentle-penguin"
+    ],
+    "genome": {
+      "body_plan": [
+        "round_quadruped",
+        "penguin_upright"
+      ],
+      "body_scale": [
+        "A",
+        "A"
+      ],
+      "face_pack": [
+        "curious_tabby",
+        "penguin_beak"
+      ],
+      "body_color": [
+        "tabby_brown_cream",
+        "black_white"
+      ],
+      "surface": [
+        "fur",
+        "smooth"
+      ],
+      "ear_pack": [
+        "cat_pointed",
+        "none"
+      ],
+      "horn_pack": [
+        "none",
+        "none"
+      ],
+      "hair_pack": [
+        "none",
+        "none"
+      ],
+      "hair_color": [
+        "none",
+        "none"
+      ],
+      "beard_pack": [
+        "none",
+        "none"
+      ],
+      "headwear": [
+        "none",
+        "none"
+      ],
+      "eyewear": [
+        "none",
+        "thick_sunglasses"
+      ],
+      "outfit": [
+        "red_collar",
+        "none"
+      ],
+      "handheld": [
+        "none",
+        "newspaper"
+      ],
+      "tail": [
+        "cat_curled",
+        "none"
+      ],
+      "wing": [
+        "none",
+        "flippers"
+      ],
+      "back": [
+        "none",
+        "none"
+      ],
+      "glow": [
+        "none",
+        "none"
+      ],
+      "hand_scale": [
+        "normal",
+        "normal"
+      ],
+      "claw": [
+        "none",
+        "none"
+      ],
+      "limb_color": [
+        "inherit_body",
+        "inherit_body"
+      ]
+    },
+    "inherited_allele_sources": {
+      "body_plan": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "body_scale": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "face_pack": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "body_color": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "surface": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "ear_pack": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "horn_pack": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "hair_pack": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "hair_color": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "beard_pack": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "headwear": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "eyewear": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "outfit": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "handheld": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "tail": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "wing": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "back": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "glow": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "hand_scale": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ],
+      "claw": [
+        {
+          "parent": "curious-cat",
+          "homolog": 1
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 0
+        }
+      ],
+      "limb_color": [
+        {
+          "parent": "curious-cat",
+          "homolog": 0
+        },
+        {
+          "parent": "gentle-penguin",
+          "homolog": 1
+        }
+      ]
+    },
+    "expression_decisions": {
+      "body_plan": "equal_rank_seeded_choice",
+      "body_scale": "homozygous",
+      "face_pack": "equal_rank_seeded_choice",
+      "body_color": "equal_rank_seeded_choice",
+      "surface": "equal_rank_seeded_choice",
+      "ear_pack": "presence_dominant_default",
+      "horn_pack": "homozygous",
+      "hair_pack": "homozygous",
+      "hair_color": "homozygous",
+      "beard_pack": "homozygous",
+      "headwear": "homozygous",
+      "eyewear": "presence_dominant_default",
+      "outfit": "presence_dominant_default",
+      "handheld": "presence_dominant_default",
+      "tail": "presence_dominant_default",
+      "wing": "presence_dominant_default",
+      "back": "homozygous",
+      "glow": "homozygous",
+      "hand_scale": "homozygous",
+      "claw": "homozygous",
+      "limb_color": "homozygous"
+    },
+    "selected_before_constraints": {
+      "body_plan": "penguin_upright",
+      "body_scale": "A",
+      "face_pack": "penguin_beak",
+      "body_color": "tabby_brown_cream",
+      "surface": "smooth",
+      "ear_pack": "cat_pointed",
+      "horn_pack": "none",
+      "hair_pack": "none",
+      "hair_color": "none",
+      "beard_pack": "none",
+      "headwear": "none",
+      "eyewear": "thick_sunglasses",
+      "outfit": "red_collar",
+      "handheld": "newspaper",
+      "tail": "cat_curled",
+      "wing": "flippers",
+      "back": "none",
+      "glow": "none",
+      "hand_scale": "normal",
+      "claw": "none",
+      "limb_color": "inherit_body"
+    },
+    "phenotype": {
+      "body_plan": "penguin_upright",
+      "body_scale": "A",
+      "face_pack": "penguin_beak",
+      "body_color": "tabby_brown_cream",
+      "surface": "smooth",
+      "ear_pack": "cat_pointed",
+      "horn_pack": "none",
+      "hair_pack": "none",
+      "hair_color": "none",
+      "beard_pack": "none",
+      "headwear": "none",
+      "eyewear": "thick_sunglasses",
+      "outfit": "red_collar",
+      "handheld": "newspaper",
+      "tail": "cat_curled",
+      "wing": "flippers",
+      "back": "none",
+      "glow": "none",
+      "hand_scale": "normal",
+      "claw": "none",
+      "limb_color": "inherit_body"
+    },
+    "suppressed": {},
+    "primary_parent": "gentle-penguin",
+    "visible_secondary_signature_loci": [
+      "ear_pack",
+      "tail"
+    ],
+    "status": "ready_for_reference_review",
+    "brief": {
+      "body_plan": "penguin_upright",
+      "face_anchors": [
+        "yellow pointed beak",
+        "white lower face"
+      ],
+      "phenotype": {
+        "body_plan": "penguin_upright",
+        "body_scale": "A",
+        "face_pack": "penguin_beak",
+        "body_color": "tabby_brown_cream",
+        "surface": "smooth",
+        "ear_pack": "cat_pointed",
+        "horn_pack": "none",
+        "hair_pack": "none",
+        "hair_color": "none",
+        "beard_pack": "none",
+        "headwear": "none",
+        "eyewear": "thick_sunglasses",
+        "outfit": "red_collar",
+        "handheld": "newspaper",
+        "tail": "cat_curled",
+        "wing": "flippers",
+        "back": "none",
+        "glow": "none",
+        "hand_scale": "normal",
+        "claw": "none",
+        "limb_color": "inherit_body"
+      },
+      "salience_limit": 2,
+      "triangle_target": 4500,
+      "triangle_hard_cap": 7000,
+      "must_not": [
+        "extra heads",
+        "split half-parent bodies",
+        "floating facial parts"
+      ],
+      "review_required": true
+    }
+  }
+]
